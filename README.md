@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 PopDM - Engage, Automate, Connect Effortlessly!
 
-## Getting Started
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/your-repo/popdm)
+[![Build Status](https://img.shields.io/badge/build-passing-success.svg)](https://github.com/your-repo/popdm)
 
-First, run the development server:
+## 🚀 What is PopDM?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+PopDM is your ultimate solution for automating Instagram comment-to-DM automation workflows. Seamlessly connect with your audience, boost engagement, and build meaningful connections with **no-code** automation.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Whether you're a creator, a marketer, or a small business owner, **PopDM** simplifies the way you interact with your followers and convert comments into conversations that count.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+### 🎯 Initial Release Highlights:
 
-To learn more about Next.js, take a look at the following resources:
+- **Auto DM on Comments**  
+  Respond instantly to Instagram comments with personalized DMs tailored to engage and convert.
+- **Keyword-Based Automation**  
+  Trigger DMs based on specific keywords in comments for targeted interactions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Comment Management**  
+  Effortlessly view, filter, and organize comments for better engagement.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Customizable Responses**  
+  Create dynamic and personalized responses to enhance user experience.
 
-## Deploy on Vercel
+- **Analytics Dashboard**  
+  Track the performance of your comment-to-DM campaigns with real-time data insights.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+
+- **Frontend**: Nextjs + TailwindCSS
+- **Backend**: Nextjs Api Routes
+- **Database**: PostgreSql
+- **Automation**: Instagram Graph API
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- Postgresql
+- An active Instagram Business Account
