@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        bg: "#f2f2f2",
+        shadow: "#00000080",
+      },
+      boxShadow: {
+        brutal: "8px 8px 0px #000",
       },
     },
   },

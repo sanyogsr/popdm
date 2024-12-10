@@ -1,4 +1,5 @@
 "use client";
+import LandingPage from "@/components/LandingPage";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
 import { redirect } from "next/navigation";
@@ -9,10 +10,5 @@ export default function Home() {
     redirect("/dashboard");
     return;
   }
-  return (
-    <div>
-      Hii kya haal chaal
-      <Link href={"/auth/login"}>Login</Link>
-    </div>
-  );
+  return <LandingPage />;
 }
